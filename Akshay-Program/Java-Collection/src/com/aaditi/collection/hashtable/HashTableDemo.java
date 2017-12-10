@@ -15,7 +15,7 @@ public class HashTableDemo {
 		hashTable.put(65, "F");
 		hashTable.put(65, "G");
 		
-//		hashTable.put(null, "sdfsdf");  //it will throw error Because hashtable doesn't allow null key
+//		hashTable.put(null, "sdfsdf");                                //it will throw error Because hashtable doesn't allow null key
 //		hashTable.put(398, null);    //it will throw error because HashTable doesn't allow null value also
 		System.out.println("Initial Size :- " + hashTable.size());
 
